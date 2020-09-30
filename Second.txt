@@ -1,1 +1,2 @@
 addied secon file
+updating second.txt
